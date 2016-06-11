@@ -7,3 +7,4 @@
 -- where you keep your commit
 3 How can you use the staging area to make sure you have one commit per logical change?
 -- you can commit before bieng on the staging area
+4
