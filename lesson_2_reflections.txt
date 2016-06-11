@@ -7,4 +7,8 @@
 -- where you keep your commit
 3 How can you use the staging area to make sure you have one commit per logical change?
 -- you can commit before bieng on the staging area
-4
+4 What are some situations when branches would be helpful in keeping your history organized? 
+-- when making different verions that you want to keep track of
+How would branches help?
+-- to have two different version that you can check later
+
